@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/ivan/AndroidStudioProjects/TicTacToe/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/ivan/.android/build-cache/72b5351d664a76a4fc3a61343228e70ed0b95f7c/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/ivan/AndroidStudioProjects/TicTacToe/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/ivan/.android/build-cache/72b5351d664a76a4fc3a61343228e70ed0b95f7c/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/ivan/AndroidStudioProjects/TicTacToe/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/home/ivan/.android/build-cache/72b5351d664a76a4fc3a61343228e70ed0b95f7c/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/home/ivan/AndroidStudioProjects/TicTacToe/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/ivan/.android/build-cache/72b5351d664a76a4fc3a61343228e70ed0b95f7c/output/res/drawable-v21/abc_btn_colored_material.xml"
+    }
+]
